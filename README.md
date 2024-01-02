@@ -11,3 +11,5 @@ posizione del settore ed il suo nome.
 > Nota Bene: Un animale non puo appartenere a piu' di una specie.
 
 > (Suggerimento: Ragiona su come memorizzare la posizione del settore)
+
+<div> <img src="https://github.com/Gianni0177/CompitiVacanzeInformatica2023-24/blob/Es1/Screenshot%202024-01-02%20152106.png?raw=true"></div>
