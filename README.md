@@ -8,3 +8,5 @@ Di un incidente interessa l’auto assicurata coinvolta (si suppone che sia unic
 Un cliente puo avere piu automobili e un’automobile ha un solo proprietario. 
 Un’automobile puo essere stata coinvolta in piu incidenti. 
 Si definisca uno schema concettuale grafico della base di dati.
+
+<div> <img src="https://github.com/Gianni0177/CompitiVacanzeInformatica2023-24/blob/Es4/Screenshot%202024-01-02%20152300.png?raw=true"> </div>
