@@ -9,3 +9,5 @@ Ogni Unità Operativa ha un codice e un nome.
 Ogni unita operativa ha in dotazione attrezzature per il pompaggio dell’acqua
 che sono caratterizzate da : Anno di costruzione, Produttore, Tipo o modello, Lunghezza
 delle scale, Capacita in litri, Frequenza di pompaggio (litri per minuto – l/min).
+
+<div> <img src="https://github.com/Gianni0177/CompitiVacanzeInformatica2023-24/blob/Es3/Screenshot%202024-01-02%20152220.png?raw=true"></div>
