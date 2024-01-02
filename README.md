@@ -13,3 +13,5 @@ Ad ogni viaggio partecipa il personale viaggiante identificato dal n° di matric
 Il personale viaggiante e costituito da piloti e assistenti; 
 per i piloti, si vuole conoscere il grado. 
 Per ogni viaggio si deve conoscere il comandante, il vicepilota e gli assistenti di viaggio (minimo uno).
+
+<div> <img src="https://github.com/Gianni0177/CompitiVacanzeInformatica2023-24/blob/Es2/Screenshot%202024-01-02%20152148.png?raw=true"></div>
