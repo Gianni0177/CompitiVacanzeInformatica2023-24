@@ -9,3 +9,5 @@ della persona che ha effettuato la prenotazione, il recapito telefonico, e la li
 Un posto e codificato da una coppia (numero fila, numero posto). 
 Ad ogni spettacolo, ad ogni rappresentazione e ad ogni prenotazione e assegnato un codice che lo identifica. 
 Si definisca uno schema concettuale grafico della base di dati.
+
+<div> <img src="https://github.com/Gianni0177/CompitiVacanzeInformatica2023-24/blob/Es10/Screenshot%202024-01-23%20201518.png?raw=true"></div>
